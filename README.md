@@ -31,7 +31,7 @@ Beautiful UI, dark theme, move highlights, check detection, and full chess rules
 ## 🖥️ How to Play
 
 1. Open the game in your browser:  
-   [**Play Online (GitHub Pages)**](https://YOUR-USERNAME.github.io/chess/)
+   [**Play Online (GitHub Pages)**](https://omaryounesss.github.io/chess-game/)
 
 2. Select:
    - **Mode** → Player vs AI / 2-Player  
